@@ -1,5 +1,5 @@
 from unittest import TestCase
-from main_logic.elf_calories import ElfCalories
+from main_logic.day1 import ElfCalories
 
 
 class TestElfCalories(TestCase):
