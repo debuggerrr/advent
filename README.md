@@ -8,6 +8,6 @@
 ### [advent day 3 challenge](https://adventofcode.com/2022/day/3)
 #### **_**solution**_**: main_logic.day3.py 
 
-## Day 3:
+## Day 4:
 ### [advent day 4 challenge](https://adventofcode.com/2022/day/4)
 #### **_**solution**_**: main_logic.day4.py 
