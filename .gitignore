@@ -1,0 +1,9 @@
+# Default ignored files
+.idea
+.tox
+build
+dist
+*.egg-info
+__pycache__
+out
+venv
