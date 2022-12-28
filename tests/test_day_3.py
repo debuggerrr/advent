@@ -10,7 +10,7 @@ class TestDay3(TestCase):
                 wMqvLMZHhHMvwLHjbvcjnnSBnvTQFn
                 ttgJtRGJQctTZtZT
                 CrZsJsPPZsGzwwsLwLmpwMDw"""
-        actual = day3.part1(self, data)
+        actual = day3().part1(data)
         self.assertEqual(actual, 157)
 
     def test_part2(self):
@@ -20,5 +20,5 @@ class TestDay3(TestCase):
                 wMqvLMZHhHMvwLHjbvcjnnSBnvTQFn
                 ttgJtRGJQctTZtZT
                 CrZsJsPPZsGzwwsLwLmpwMDw"""
-        actual = day3.part2(self, data)
+        actual = day3().part2(data)
         self.assertEqual(actual, 2444)
